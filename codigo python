@@ -1,0 +1,115 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyMDqfKB8irPTkQJn4LqkIXK",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/kleyAlves/an-lise-e-desenvolvimento-de-sistemas/blob/main/codigo%20python\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "vZjpIjuZg2U8",
+        "outputId": "701a31de-0ffe-41dc-dd8d-749f9ff62eae"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "hello world\n",
+            "meu nome é Frankley\n",
+            "tenho 27 anos\n",
+            "sou aluno de programação\n",
+            "10\n",
+            "frankley\n",
+            "7.98\n",
+            "False\n"
+          ]
+        }
+      ],
+      "source": [
+        "print (\"hello world\")\n",
+        "print (\"meu nome é Frankley\")\n",
+        "print (\"tenho 27 anos\")\n",
+        "print (\"sou aluno de programação\")\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "x = 10\n",
+        "nome = \"frankley\"\n",
+        "nota = 7.98\n",
+        "fez_inscricao = True\n",
+        "\n",
+        "print (x)\n",
+        "print (nome)\n",
+        "print (nota)\n",
+        "print (fez_inscricao)\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "nome = input (\"Digite um nome:\")\n",
+        "print (f\"nome\")\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "GyeJlB0pHaQj",
+        "outputId": "12f01a44-8dc5-49b5-8c03-3f798a501148"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Digite um nome:frankley\n",
+            "nome\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "Lf1QOpdpiuaV"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
